@@ -1,5 +1,5 @@
 -  Hi,I am Lirisha Tayal 👋
-- 📚 I’m currently in 3rd year pursuing Btech from Bharati Vidyapeeth College Of Engineering.
+- 📚 I’m currently in fourth year pursuing Btech from Bharati Vidyapeeth College Of Engineering.
 - 👀 I'm a Web Developer working remotely from New Delhi, India 
 - ⚙️ I daily work on:html5,css3,Media Queries
 - 🖊️I am looking to collaborate on projects related to webdevelopmet.
